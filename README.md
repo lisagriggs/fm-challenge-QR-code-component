@@ -21,8 +21,8 @@ Challenge is to build out this QR code component and get it looking as close to 
 
 ### Screenshot
 
-![](./screenshot-desktop.png =200)
-![](./screenshot-mobile.png =200)
+![](./screenshot-desktop.png =200x)
+![](./screenshot-mobile.png =200x)
 
 ### Links
 
