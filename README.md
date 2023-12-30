@@ -21,13 +21,13 @@ Challenge is to build out this QR code component and get it looking as close to 
 
 ### Screenshot
 
-<img src="./screenshot-desktop.png" width="200px"/>
-<img src="./screenshot-mobile.png" width="100px"/>
+<img src="./screenshot-desktop.png" width="800px"/>
+<img src="./screenshot-mobile.png" width="300px"/>
 
 ### Links
 
-- Solution URL: [https://www.frontendmentor.io/solutions/qr-code-component-for-desktop-and-mobile-using-flexbox-NJUNvlelqU](https://www.frontendmentor.io/solutions/qr-code-component-for-desktop-and-mobile-using-flexbox-NJUNvlelqU)
-- Live Site URL: [https://sprightly-heliotrope-cfbe3f.netlify.app/](https://sprightly-heliotrope-cfbe3f.netlify.app/)
+- Solution URL: [Solution](https://www.frontendmentor.io/solutions/qr-code-component-for-desktop-and-mobile-using-flexbox-NJUNvlelqU)
+- Live Site URL: [Live Site](https://sprightly-heliotrope-cfbe3f.netlify.app/)
 
 ## My process
 
@@ -45,21 +45,25 @@ Just having started my frontend journey, I have basic knowledge of HTML and CSS 
 
 A helpful commenter on Frontend Mentor informed me I should review HTML semantics as I could use 'main' instead of a 'div'. Also, I have taken their advice to use max-width and min-height instead of using one height element originally.
 
-```HTML original code
+```HTML
+<!--HTML original code -->
 <div class="container"></div>
 ```
 
-```HTML updated code
+```HTML
+<!--HTML updated code -->
 <main></main>
 ```
 
-```CSS original code
+```CSS
+/* CSS original code */
 .container {
     height: 95vh;
 }
 ```
 
 ```CSS updated code
+/* CSS updated code */
 main {
   max-width: 100vw;
   min-height: 100vh;
