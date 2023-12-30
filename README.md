@@ -22,7 +22,6 @@ Challenge is to build out this QR code component and get it looking as close to 
 ### Screenshot
 
 <img src="./screenshot-desktop.png" width="800px"/>
-<img src="./screenshot-mobile.png" width="300px"/>
 
 ### Links
 
